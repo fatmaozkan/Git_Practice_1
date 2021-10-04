@@ -7,5 +7,7 @@ public class Hello {
         System.out.println("Created git repository");
 
         System.out.println("Made few commit");
+
+        System.out.println("Local repo is already published");
     }
 }
